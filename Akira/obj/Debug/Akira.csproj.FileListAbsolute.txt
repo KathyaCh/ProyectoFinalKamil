@@ -1,0 +1,15 @@
+C:\Users\kathy\source\repos\Akira\Akira\bin\Debug\Akira.exe.config
+C:\Users\kathy\source\repos\Akira\Akira\bin\Debug\Akira.exe
+C:\Users\kathy\source\repos\Akira\Akira\bin\Debug\Akira.pdb
+C:\Users\kathy\source\repos\Akira\Akira\obj\Debug\Akira.csproj.AssemblyReference.cache
+C:\Users\kathy\source\repos\Akira\Akira\obj\Debug\Akira.csproj.SuggestedBindingRedirects.cache
+C:\Users\kathy\source\repos\Akira\Akira\obj\Debug\Akira.Properties.Resources.resources
+C:\Users\kathy\source\repos\Akira\Akira\obj\Debug\Akira.csproj.GenerateResource.cache
+C:\Users\kathy\source\repos\Akira\Akira\obj\Debug\Akira.csproj.CoreCompileInputs.cache
+C:\Users\kathy\source\repos\Akira\Akira\obj\Debug\Akira.exe
+C:\Users\kathy\source\repos\Akira\Akira\obj\Debug\Akira.pdb
+C:\Users\kathy\source\repos\Akira\Akira\obj\Debug\Akira.Form1.resources
+C:\Users\kathy\source\repos\Akira\Akira\obj\Debug\Akira.FormCentros.resources
+C:\Users\kathy\source\repos\Akira\Akira\obj\Debug\Akira.FormDirectivos.resources
+C:\Users\kathy\source\repos\Akira\Akira\obj\Debug\Akira.FormEmpleados.resources
+C:\Users\kathy\source\repos\Akira\Akira\obj\Debug\Akira.FormPuestos.resources
